@@ -1,0 +1,3 @@
+[submodule "roles/cwxlab.openstack.controller-database"]
+	path = roles/cwxlab.openstack.controller-database
+	url = git@github.com:CwxLab/ansible-role-openstack-controller_database.git
